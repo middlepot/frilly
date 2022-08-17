@@ -1,5 +1,5 @@
 <img width="400" height="30" src="https://middlepot.com/img/lacey.png">\
   \
- ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌꒰ ‌ 𝑏𝑎𝑠𝑒 𝑐𝑜𝑑𝑒𝑠 𝑓𝑜𝑟 𝑦𝑜𝑢 : ‌ base.pooftie.me ‌ ꒱\
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌꒰ ‌ 𝑓𝑟𝑖𝑙𝑙𝑦 𝑚𝑎𝑟𝑘𝑢𝑝 𝑙𝑎𝑛𝑔𝑢𝑎𝑔𝑒 : ‌ frilly.pooftie.me ‌ ꒱\
   \
 <img width="400" height="230" src="https://middlepot.com/img/frilly.jpg">
