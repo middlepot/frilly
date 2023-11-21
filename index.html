@@ -130,7 +130,7 @@ html {
 }
 #previeww {border-radius: 300px; overflow:hidden; outline:none; border:none; position:absolute; top:280px; left:800px; z-index:99; width:300px; height:300px;}
 @supports not (-webkit-touch-callout: none) {
-@media screen and (max-width: 1000px) and (orientation: portrait){
+@media screen and (min-width: 1px) and (orientation: portrait){
 body { position: absolute; zoom: 140%;
 	left:680px;
 	top:-40px;
@@ -144,7 +144,7 @@ body { position: absolute; zoom: 140%;
 border-radius: 205px; overflow:hidden; outline:none; border:none; position:absolute; top:330px; left:850px; z-index:99; width:205px; height:205px;}
 }}
 @supports (-webkit-touch-callout: none) {
-@media screen and (max-width: 1000px) and (orientation: portrait){
+@media screen and (min-width: 1px) and (orientation: portrait){
 body { position: absolute; zoom: 140%;
 	left:680px;
 	top:-40px;
@@ -168,8 +168,8 @@ body { position: absolute; zoom: 130%;
 border-radius: 230px; overflow:hidden; outline:none; border:none; position:absolute; top:315px; left:835px; z-index:99; width:230px; height:230px;}
 }
 @media screen and (min-width: 2000px) and (orientation: landscape){
-body { position: absolute; zoom: 100%;}
-#previeww { -webkit-transform: scale(1); transform: scale(1);
+body { position: absolute; zoom: 170%;}
+#previeww { -webkit-transform: scale(1.7); transform: scale(1.7);
 border-radius: 300px; overflow:hidden; outline:none; border:none; position:absolute; top:280px; left:800px; z-index:99; width:300px; height:300px;}
 }
 @media screen and (min-width: 3000px) and (orientation: landscape){
